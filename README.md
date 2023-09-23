@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, My name Mohamed Derfoufi</h1>
+<h1 align="center">Hello 👋, My name is Mohamed Derfoufi</h1>
 <h3 align="center">I'm a student in Software & Management Engineering</h3>
 
 - 🌱 I’m currently learning **C, C++ and Python.**
