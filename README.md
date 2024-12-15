@@ -25,33 +25,33 @@ I am a dedicated **Software Engineering Student** specializing in **Backend Deve
 ### 📂 Featured Projects:
 #### 🌟 Filmology - A Movie Recommendation System
 **Description:** An intelligent movie recommender app built with Flask and React.js, integrating TMDb API for real-time movie details.
-- [GitHub Repository](https://github.com/username/Filmology)
+- [GitHub Repository](https://github.com/Alogyn/Filmology)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 #### 🔗 ALX Backend JavaScript Projects
 **Description:** A series of projects exploring ES6, TypeScript, and advanced JavaScript concepts.
-- [GitHub Repository](https://github.com/username/alx-backend-javascript)
+- [GitHub Repository](https://github.com/Alogyn/alx-backend-javascript)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 #### 🎮 SA-MP Map Modifier
 **Description:** A custom map-switching feature for San Andreas Multiplayer.
-- [GitHub Repository](https://github.com/username/samp-map-modifier)
+- [GitHub Repository](https://github.com/Alogyn/samp-map-modifier)
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats:
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alogyn&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alogyn&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Let's Connect:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-derfoufi)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/username)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/username)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Alogyn)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Alogyn)
 
 ---
 
@@ -76,3 +76,4 @@ I am a dedicated **Software Engineering Student** specializing in **Backend Deve
 - To specialize further in backend systems and cloud technologies.
 - To contribute to open-source projects and build impactful applications.
 - To continuously learn and adapt to emerging technologies.
+- To develop scalable and innovative software solutions for real-world challenges.
