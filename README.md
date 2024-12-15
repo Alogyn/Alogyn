@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Derfoufi
 
 ### 👨‍💻 About Me:
-I am a dedicated **Software Engineering Student** specializing in **Backend Development** and **Data Analysis & Business Inteligence**. I am currently pursuing my studies at **[EHEIO](https://ehei.ma/)** and enrolled in the **[ALX Software Engineering program](https://www.alxafrica.com/)**. With a strong passion for technology and problem-solving, I aim to create impactful software solutions.
+I am a dedicated **Software & Management Engineering Student** specializing in **Backend Development** and **Data Analysis & Business Inteligence**. I am currently pursuing my studies at **[EHEIO](https://ehei.ma/)** and enrolled in the **[ALX Software Engineering program](https://www.alxafrica.com/)**. With a strong passion for technology and problem-solving, I aim to create impactful software solutions.
 
 ---
 
