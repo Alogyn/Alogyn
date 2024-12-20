@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
-</p>
+</p>  
+
 # 👋 Hi, I'm Mohamed Derfoufi
 
 ### 👨‍💻 About Me:
